@@ -1,5 +1,5 @@
 # Prasad Nimbalkar  
-**ETL Developer | Data Analyst | Big Data Engineer**  
+**ETL Developer | Python Developer | Data Analyst**  
 
 📧 **Email** – prasad121197@gmail.com  
 📞 **Contact** – +91 7066969040  
