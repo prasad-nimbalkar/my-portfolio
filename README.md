@@ -4,7 +4,7 @@
 📧 **Email** – prasad121197@gmail.com  
 📞 **Contact** – +91 7066969040  
 🔗 **LinkedIn** – [linkedin.com/in/prasadnimbalkar/](https://linkedin.com/in/prasadnimbalkar/)  
-💻 **GitHub** – [github.com/prasad4n](https://github.com/prasad4n)  
+💻 **GitHub** – [github.com/prasad-nimbalkar](https://github.com/prasad-nimbalkar)  
 📍 **Location** – Mumbai, IN  
 
 ---
