@@ -1,85 +1,91 @@
-# Prasad Nimbalkar  
-**ETL Developer | Data Analyst | Big Data Engineer**  
+# PRASAD NIMBALKAR
 
-📧 **Email** – prasad121197@gmail.com  
-📞 **Contact** – +91 7066969040  
-🔗 **LinkedIn** – [linkedin.com/in/prasadnimbalkar/](https://linkedin.com/in/prasadnimbalkar/)  
-💻 **GitHub** – [github.com/prasad-nimbalkar](https://github.com/prasad-nimbalkar)  
-📍 **Location** – Mumbai, IN  
+### Python Developer · Backend Engineer · Software Engineer
 
----
-
-## 🧠 Career Summary  
-As a Data Engineer with 4+ years of experience, I’ve consistently delivered scalable data solutions by addressing business-critical challenges. Faced with fragmented data sources and slow pipelines (Situation), I was tasked with optimizing ETL workflows to ensure reliable and timely data access for analytics and reporting (Task). I implemented high-performance pipelines using Python, PySpark, and Airflow, while collaborating closely with cross-functional teams to align data architecture with business goals (Action). As a result, I improved data throughput, reduced query times by up to 40%, and enhanced system reliability, directly supporting faster decision-making and operational stability (Result). Recognized for debugging high-stakes production issues under tight deadlines and translating complex requirements into actionable solutions.
+📞 +91 7066969040  
+📧 prasadn.career@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/prasadnimbalkar](https://linkedin.com/in/prasadnimbalkar/)   
+💻 GitHub: [github.com/prasad-nimbalkar]((https://github.com/prasad-nimbalkar))   
+📍 Pune, India  
 
 ---
 
-## 🛠️ Skills  
-- **Data Engineering & Processing**: Python (Pandas, NumPy), PySpark, Hadoop, Airflow, ETL frameworks  
-- **Databases & Storage**: MS SQL, SQLite, AWS  
-- **Development Operations**: Linux, Git, Docker, CI/CD pipelines, Jenkins  
-- **Visualization & Reporting**: Matplotlib, Dashboards, Performance metrics  
-- **Core Strengths**: Query optimization, Debugging, Performance tuning, Cross-functional communication, System stability, Scalable data workflows  
+## PROFESSIONAL SUMMARY
+
+Software Engineer II at Bank of America with 4+ years of experience building scalable Python applications, REST APIs, cloud-native backend services, and automation solutions. Skilled in FastAPI, AWS, Docker, Redis, RabbitMQ, and backend system optimization with experience delivering production-grade applications in enterprise financial environments. Proven ability to deliver reliable, high-performance applications in fast-paced, compliance-driven environments with domain expertise in FX Risk Management and Risk Sensitivity Analysis (Greeks).
 
 ---
 
-## 💼 Work Experience  
+## TECHNICAL SKILLS
 
-### 👨‍💻 Software Engineer I A  
-**Bank of America, Mumbai** | *On-site*  
-🗓️ **February 2025 – Present**  
-- Leading critical fixes and enhancements, ensuring uninterrupted system performance.  
-- Collaborating in architecture discussions to deliver reusable and scalable solutions aligned with long-term strategy.  
-- Proactively monitoring pipelines, improving incident response and reducing downtime.  
+**Core Technologies:** Python 3.x, FastAPI, REST APIs, MySQL, Pandas, NumPy, NoSQL, AWS (Lambda, S3, Redshift, Glue, CloudWatch), GCP, Docker, Redis, RabbitMQ, Git/GitHub, YAML  
 
-### 👨‍💻 Software Engineer I B  
-**Bank of America, Mumbai** | *On-site*  
-🗓️ **June 2021 – January 2025**  
-- Managed data inflows from multiple sources, ensuring consistency and integrity across systems.  
-- Designed and optimized ETL workflows, improving data throughput and cutting query execution time.  
-- Automated version control through CI/CD pipelines, reducing deployment errors and improving delivery speed.  
-- Debugged and resolved pipeline failures, strengthening system reliability and monitoring protocols.  
-- Worked with data analysts to translate requirements into structured data pipelines for accurate reporting.  
-- Authored test cases and validation scripts, ensuring compliance and improving data accuracy.  
-- Delivered high-impact tasks on schedule, balancing priorities and supporting cross-team projects.  
+**Familiar Technologies:** PySpark (Apache Spark), Apache Airflow, Kafka, SQLAlchemy, MS SQL Server, Matplotlib, ETL/ELT Pipelines  
+
+**Domain Expertise:** FX Risk Management, Risk Sensitivity Analysis (The Greeks), Fintech Backend Systems
 
 ---
 
-## 🚀 Projects  
+## PROFESSIONAL EXPERIENCE
 
-### 📈 Algorithmic Trading Backtester | *April 2025*  
-- Developed a Python-based backtesting engine to simulate strategies, leveraging historical stock data.  
-- Designed performance metrics and visualizations to help stakeholders assess risk.  
-🔗 **URL**: [Algorithmic-Trading-Backtester](https://github.com/prasad4n/Algorithmic-Trading-Backtester)
+### Software Engineer II · Bank of America
+📍 Mumbai, India | Feb 2025 – Present
 
-### 📚 e-Library Manager | *January 2025 – February 2025*  
-- Built RESTful APIs with FastAPI for managing books and memberships, integrating SQLite for persistence.  
-- Implemented features like borrow tracking, due dates, and late fee calculations.  
-🔗 **URL**: [e-library-manager](https://github.com/prasad4n/e-library-manager)  
+**Skills:** Python, FastAPI, AWS (Lambda, S3, Redshift, Glue, CloudWatch), PySpark, SQL (Distributed Queries), YAML, Docker, Git/GitHub
 
----
-
-## 🎓 Education  
-
-### Post Graduate Diploma in Big Data Analytics  
-**SunBeam Institute of Information Technology, Pune**  
-🗓️ *September 2020 – March 2021*  
-📊 **CGPA**: 6.6  
-
-### Bachelor of Engineering (Information Technology)  
-**VPKBIET, Baramati**  
-🗓️ *January 2015 – January 2020*  
-📊 **CGPA**: 6.95  
+- Engineered critical backend fixes and enhancements for enterprise financial applications, reducing production incidents, and ensuring 99%+ SLA compliance.
+- Designed and delivered scalable backend services, reusable Python components, and REST APIs aligned with business requirements and long-term platform architecture.
+- Integrated backend REST APIs with React-based frontend applications, enabling seamless end-to-end user workflows and reducing data exchange latency across platform services.
+- Implemented structured logging, monitoring, and error-handling mechanisms — reducing MTTR by 25% QoQ and improving production support efficiency in high-compliance financial systems.
+- Automated backend operational workflows and streamlined incident response processes, improving system recovery time, and reducing manual intervention for high-availability services.
+- Deployed cloud-native backend solutions on AWS (Lambda, S3, Glue, CloudWatch), applying production-grade deployment practices that improved system reliability and reduced infrastructure overhead.
 
 ---
 
-## 🏅 Certifications & Achievements  
-- 🥇 **Hackathon Winner** – Recognized for developing an innovative solution during the Internal Bug-G event.  
-- 🏆 **Awarded** for managing high-pressure development schedules, consistently delivering results aligned with business goals.  
+### Software Engineer I · Bank of America
+📍 Mumbai, India | Jun 2021 – Jan 2025
+
+**Skills:** Python (OOP), PySpark, Fast API, SQL (Distributed Queries), GCP/AWS, ETL/ELT, Apache Airflow, YAML, Git
+
+- Developed and optimized Python backend modules for enterprise-grade financial risk management applications, improving processing reliability, and supporting downstream risk sensitivity workflows.
+- Delivered 120+ Jira tasks across 12 Agile sprint cycles at a 95% on-time rate, translating complex business requirements into well-tested, production-ready backend modules.
+- Refactored 3 core Python modules applying OOP and SOLID principles — reducing cyclomatic complexity by 30% and improving unit test execution speed by 2×, accelerating CI/CD feedback cycles.
+- Designed YAML-driven configuration and validation workflows to automate backend verification, reducing manual QA overhead and standardizing result accuracy checks across calculators.
+- Authored comprehensive unit and integration test suites across multiple backend modules, improving reliability, increasing test coverage, and reducing production defect escape rate.
 
 ---
 
-## 🌐 Languages  
-- English  
-- Hindi  
-- Marathi  
+## PROJECTS
+
+### JIRA Release Notes Automation
+**Python · JIRA REST API · AWS Lambda · Claude AI** 
+📅 Apr 2026
+
+- Built an automated release notes generation workflow by extracting Jira metadata, reviews, and issue details through Jira REST APIs and transforming technical updates into business-friendly release summaries using an AI-powered agent.
+- Developed a configurable backend automation pipeline to collect, filter, and process release-related information, reducing manual documentation effort and improving communication clarity for business stakeholders.
+
+---
+
+### RR Native Calculator
+**Python · OOP · Pandas · NumPy · YAML**  
+📅 May – Dec 2025
+
+- Architected the RR Native Calculator from scratch, redesigning FX risk sensitivity (Greeks) computation from a sequential queue-based model to a parallelised, chunk-based grid execution engine — significantly reducing end-to-end calculation time for large trading book portfolios.
+- Implemented a result validation framework to benchmark the new parallel calculator against production outputs of the legacy system, ensuring numerical accuracy and correctness of Greeks across all test scenarios before live deployment.
+
+---
+
+## EDUCATION
+
+### PG Diploma – Big Data Analytics
+Sunbeam, Pune | 2020 – 2021
+
+### BE – Information Technology
+VPKBIET, Baramati | 2015 – 2020
+
+---
+
+## CERTIFICATIONS
+
+- AWS Certified Cloud Practitioner - Issued Jan 2026
+- Snowflake Platform Training – Public GXC - Issued Dec 2025
